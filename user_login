@@ -1,0 +1,8 @@
+{
+	"code": 1,
+	"data": {
+		"userName": "admin ",
+		"nickName": "simpleName "
+	},
+	"msg": "success"
+}
