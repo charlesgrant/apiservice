@@ -1,7 +1,9 @@
 {
 	"code": 1,
 	"data": {
-		"isReturn": "true"
+		"returnTime": "1517928553",
+		"type": "12777RR",
+		"id": "No.1212324213123"
 	},
 	"msg": "success"
 }
