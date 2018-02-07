@@ -1,0 +1,17 @@
+{
+	"code": 1,
+	"data": [{
+		"model": "HUU090",
+		"price": "100",
+		"sellTime": "1518013945"
+	}, {
+		"model": "HUU01",
+		"price": "100",
+		"sellTime": "1518013945"
+	}, {
+		"model": "HUU0123",
+		"price": "100",
+		"sellTime": "1518013945"
+	}],
+	"msg": "success"
+}
