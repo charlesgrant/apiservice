@@ -1,19 +1,19 @@
 {
 	"code": 1,
 	"data": [{
-		"returnTime": "1517928553",
+		"returnTime": 1517928553,
 		"type": "12777RR",
 		"id": "No.1212324213123"
 	}, {
-		"returnTime": "1517928553",
+		"returnTime": 1517928553,
 		"type": "12777RR",
 		"id": "No.0000"
 	}, {
-		"returnTime": "1517928553",
+		"returnTime": 1517928553,
 		"type": "12777RR",
 		"id": "No.5555"
 	}, {
-		"returnTime": "1517928553",
+		"returnTime": 1517928553,
 		"type": "12777RR",
 		"id": "No.99999"
 	}],
