@@ -1,0 +1,21 @@
+{
+	"code": 1,
+	"data": [{
+			"id": "001122",
+			"model": "HUU090",
+			"color": "Yellow",
+			"stock": 211,
+			"purchaseTime": "1519373422",
+			"status": "1"
+		},
+		{
+			"id": "003344",
+			"model": "ioio00",
+			"color": "Blue",
+			"stock": 200,
+			"purchaseTime": "1519373422",
+			"status": "0"
+		}
+	],
+	"msg": "success"
+}
