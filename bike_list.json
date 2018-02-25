@@ -1,0 +1,23 @@
+{
+	"code": 1,
+	"data": [{
+			"model": "HUU090",
+			"price": "100",
+			"sellCount": "122",
+			"stockCount": "200"
+		},
+		{
+			"model": "KLL01",
+			"price": "300",
+			"sellCount": "1220",
+			"stockCount": "10"
+		},
+		{
+			"model": "P111",
+			"price": "200",
+			"sellCount": "4000",
+			"stockCount": "2000"
+		}
+	],
+	"msg": "success"
+}
